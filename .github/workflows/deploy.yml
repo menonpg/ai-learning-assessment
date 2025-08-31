@@ -17,7 +17,7 @@ concurrency:
 jobs:
   build-and-deploy:
     environment:
-      name: github-pages
+      name: azure-openai
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     
