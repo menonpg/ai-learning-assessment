@@ -39,7 +39,7 @@ This tool is based on extensive research in educational psychology and AI-mediat
 
 ## Research Paper
 
-[Read the full paper](docs/paper.pdf) - *Coming Soon*
+[Read the full paper](docs/paper.pdf) - *Pending Peer Review*
 
 ## Usage
 

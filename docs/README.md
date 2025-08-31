@@ -4,14 +4,14 @@ This directory contains research papers, technical documentation, and supplement
 
 ## Files
 
-- `paper.pdf` - Full research paper (Coming Soon)
+- `paper.pdf` - Full research paper 
 - `technical-specs.md` - Technical implementation details
 - `research-notes.md` - Research methodology and findings
 - `api-documentation.md` - API integration documentation
 
 ## Research Paper
 
-The full research paper describing the 5×4 diagnostic framework, cultural learning dimensions, and validation studies will be published here upon completion of peer review.
+The full research paper describing the 5×4 diagnostic framework, cultural learning dimensions, and validation studies will be published here.  It is pending completion of peer review and submission to the arxiv.
 
 ## Technical Documentation
 
