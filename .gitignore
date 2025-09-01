@@ -84,3 +84,4 @@ config/keys.js
 *.pem
 *.p12
 azure-credentials.json
+index copy.html
